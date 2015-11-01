@@ -9,10 +9,10 @@ a.list-group-item.active small {
     color:#fff;
 }
 .stars {
-    margin:20px auto 1px;    
+    margin:20px auto 1px;
 }
 
-/* ロードアイコン */
+/* 繝ｭ繝ｼ繝峨い繧､繧ｳ繝ｳ */
 .glyphicon-refresh-animate {
     -animation: spin .7s infinite linear;
     -webkit-animation: spin2 .7s infinite linear;
